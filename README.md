@@ -1,7 +1,5 @@
 <html lang="en">
-<head>
-  <style>pre .pl-k { color: #d73a49; }</style>
-</head>
+<head></head>
 <body>
 <h3>Hi, I´m José Miguel Pérez 👋</h3>
 <p>I´m currently <strong>frontend developer</strong> at <a href="https://www.esferize.com/en/" target="blank">esferize</a></p>

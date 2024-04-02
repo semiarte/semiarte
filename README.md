@@ -8,7 +8,7 @@ I´m currently frontend developer at <a href="https://www.esferize.com/en/">esfe
         technologies: {
             frontEnd: {
                 js: ["react", "angular"],
-                css: ["bootstrap", "pure"]
+                css: ["bootstrap", "pure", "tailwind"]
             },
             backEnd: {
                 js: ["node"]
